@@ -1,0 +1,30 @@
+.header-nav{
+    background-color: #585650;
+    border-radius: 0;
+    border: 0;
+}
+
+.li-item{
+    text-align: center;
+}
+
+.main-items{
+    text-align: center;
+    margin: 10px 30px 15px 30px;
+    padding: 20px 20px 20px 20px;
+}
+.Chicken{
+    margin: 10px 15px 10px 15px;
+    padding: 5px 5px 5px 5px;
+    background-color: #dabb60;
+}
+.beef{
+    margin: 10px 15px 10px 15px;
+    padding: 5px 5px 5px 5px;
+    background-color: #dabb60;
+}
+.Sushi{
+    margin: 10px 15px 10px 15px;
+    padding: 5px 5px 5px 5px;
+    background-color: #dabb60;
+}
